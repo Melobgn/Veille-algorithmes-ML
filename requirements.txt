@@ -105,3 +105,4 @@ wurlitzer==3.0.3
 xxhash==3.4.1
 yellowbrick==1.5
 zipp==3.17.0
+pycaret==3.2.0
